@@ -74,6 +74,7 @@
     "postcss-scss": "^0.1.6",
     "precss": "^1.4.0",
     "raw-loader": "^0.5.1",
+    "react-native-typescript-transformer": "^1.2.10",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.2",
     "redbox-react": "^1.2.2",
